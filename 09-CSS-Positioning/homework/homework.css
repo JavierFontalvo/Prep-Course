@@ -30,6 +30,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 
 
+
+
 /* Ejercicio 4: */
 
 #ejercicioCuatro{
@@ -53,4 +55,27 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 6. */
 #ejercicioCinco{
     flex-direction: row-reverse;
+}
+#elementoUno{
+    position: relative;
+    background-color: rgb(165, 44, 40);
+    left: 4px;
+}
+
+#elementoDos{
+    position:relative;
+    background-color: rgb(151, 66, 63);
+    top: 105px;
+}
+
+#elementoTres{
+    position:relative;
+    background-color: rgb(97, 75, 74);
+    top: 210px;
+}
+
+#elementoCuatro{
+    position:relative;
+    background-color: rgb(184, 170, 169);
+    top: 315px;
 }
